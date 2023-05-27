@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "glob": "^10.2.6",
+    "recursive-readdir": "^2.2.3"
+  },
+  "name": "getallfiles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
