@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "glob": "^10.2.6",
+    "fs-extra": "^11.1.1",
     "recursive-readdir": "^2.2.3"
   },
   "name": "getallfiles",
@@ -9,8 +9,14 @@
   "scripts": {
     "dev": "nodemon index"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "JavaScript",
+    "recursive",
+    "readdir",
+    "copyFileSync"
+  ],
+  "author": "Duane Muller",
   "license": "ISC",
   "description": ""
 }
